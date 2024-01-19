@@ -34,7 +34,7 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Cluesoft OS</h3>
 
   <p align="center">
     project_description
@@ -84,8 +84,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `LazymanOnGithub`, `CluesoftOS`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Cluesoft OS is a terminal-based operating system written in C# and is completely bootable, there is not much but we are working on it.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,14 +92,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![CSharp][C#-url]]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -244,4 +236,5 @@ Project Link: [https://github.com/LazymanOnGithub/CluesoftOS](https://github.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
 [Bootstrap-url]: https://getbootstrap.com
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[JQuery-url]: https://jquery.com
+[C#-url]: https://img.shields.io/badge/Visual%20Studio-CSharp-blue
